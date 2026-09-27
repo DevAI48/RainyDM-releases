@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-09-27T15:08:57.5957422+00:00",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "publishedAt": "2026-09-27T15:08:57.5957422+00:00",
+      "mandatory": false,
+      "notes": {
+        "en": "\tFirst release",
+        "ar": "\u0623\u0648\u0644 \u0625\u0635\u062F\u0627\u0631"
+      },
+      "packages": [
+        {
+          "rid": "win-x64",
+          "url": "https://github.com/DevAI48/RainyDM-releases/releases/download/v1.0.0/RainyDM-1.0.0-win-x64.zip",
+          "size": 97495713,
+          "sha256": "f32c92fce12cffbcb4b42ccae17eefde39f6bcb10d1b9055859d2e4102d78054"
+        },
+        {
+          "rid": "win-arm64",
+          "url": "https://github.com/DevAI48/RainyDM-releases/releases/download/v1.0.0/RainyDM-1.0.0-win-arm64.zip",
+          "size": 94630614,
+          "sha256": "0746e2531f3a498a00091740e2ccb8062549c3bdcdb9e20e1108dfc06dabf372"
+        },
+        {
+          "rid": "linux-x64",
+          "url": "https://github.com/DevAI48/RainyDM-releases/releases/download/v1.0.0/RainyDM-1.0.0-linux-x64.tar.gz",
+          "size": 77425268,
+          "sha256": "cf86e5098348fe9bce5ec86cf4c06dabc77dd89c5d8ce28ab92ced2e217d6cd3"
+        },
+        {
+          "rid": "osx-x64",
+          "url": "https://github.com/DevAI48/RainyDM-releases/releases/download/v1.0.0/RainyDM-1.0.0-osx-x64.tar.gz",
+          "size": 80474121,
+          "sha256": "be7cc8ffd58c905027ed75633311c78542a5971063678fb3aa87f312632ac2e2"
+        },
+        {
+          "rid": "osx-arm64",
+          "url": "https://github.com/DevAI48/RainyDM-releases/releases/download/v1.0.0/RainyDM-1.0.0-osx-arm64.tar.gz",
+          "size": 77697498,
+          "sha256": "a31369a286f330337dd0918f9b5c6ec861b4d5108392d4438c07ef2e12a9ac7a"
+        }
+      ]
+    }
+  ]
+}
