@@ -30,6 +30,13 @@ installs anything. A feed or archive that does not match is never used.
 
 ## Installing by hand
 
-Download the archive for your system from a release, extract it into a folder you can write to
-(for example `%LOCALAPPDATA%\Programs\RainyDM` on Windows or `~/Applications/RainyDM` on macOS and
-Linux) and run `RainyDM.Desktop`. Updates then happen inside the app.
+1. Download the archive for your system from a release.
+2. Extract it into a folder you can write to, for example `%LOCALAPPDATA%\Programs\RainyDM` on
+   Windows or `~/Applications/RainyDM` on macOS and Linux.
+3. Run **`RainyDM.exe`** on Windows, or **`RainyDM`** on macOS and Linux.
+
+Updates then happen inside the app.
+
+From 1.0.2 the archive also contains **`RainyDM.Desktop`** (`RainyDM.Desktop.exe` on Windows), the
+program's name in 1.0.0 and 1.0.1. It starts the same program. Keep it: versions 1.0.0 and 1.0.1
+look for that name when they update.
